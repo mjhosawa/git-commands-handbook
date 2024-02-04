@@ -2,8 +2,6 @@
 
 This guide provides easy-to-use Git commands with simple explanation that have been my go-to tools throughout my coding journey. 
 
-## Commands
-
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Initialize a new Git repository in a directory |
