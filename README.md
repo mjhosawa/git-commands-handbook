@@ -1,6 +1,6 @@
 # Git Commands Handbook
 
-This guide provides easy-to-use Git commands that have been my go-to tools throughout my coding journey. 
+This guide provides easy-to-use Git commands with simple explanation that have been my go-to tools throughout my coding journey. 
 
 ## Commands
 
@@ -25,8 +25,33 @@ This guide provides easy-to-use Git commands that have been my go-to tools throu
 | `git diff` | See the changes in your working directory compared to the last commit |
 | `git diff --staged` | Preview changes staged for the next commit |
 | `git diff <filename>` | Check modifications in a specific file |
+| `git diff <branch1>..<branch2>` | Compare changes between two branches |
+| `git push origin <branchname>` | Push the changes made in a local branch to a remote repository |
+| `git push -u origin <branchname>` | Push the changes made in a local branch to a remote repository and set up a tracking relationship between the local and remote branch |
+| `git push` | Push your committed changes to the remote repository |
+| `git push -f` | Forcefully push local changes to the remote repository, overwriting any changes that may exist there. |
+| `git push origin -d <branchname>` | Delete a remote branch on the Git repository |
+| `git checkout -b <branchname>` | Create and move to a new branch in one step |
+| `git checkout <branchname>` | Move to an existing branch |
+| `git checkout -- <filename>` | Undo changes in a specific file |
+| `git checkout -- . ` | Discard all changes in your working directory |
+| `git checkout -` | Return to the branch you were on before |
 
 
-## Meaning of the terms used:
+## Meaning of the terms used in the commands:
 
-- Staging area is like a preview of the changes you're about to save. It allows you to carefully select and review modifications before making them a permanent part of your project's history
+- Staging area is like a preview of the changes you're about to save. It allows you to carefully select and review modifications before making them a permanent part of your project's history.
+- Tracking relationship between a local and a remote branch meaning it simplifies tasks like pushing and pulling changes, allowing you to interact with the remote branch without specifying its name each time.
+
+
+## Updates in Progress
+
+This project is actively maintained, and updates are still in progress.
+
+## Last Updated
+
+This README was last updated on [Date].
+
+## Project Status
+
+[![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-green.svg)](https://github.com/user/repo)
