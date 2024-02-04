@@ -15,7 +15,7 @@ This guide is here to help everyone, whether you're just starting out or have be
 | `git add <filename>` | Add a single file to the staging area |
 | `git add <path\to\dir>` | Add changes only in a specific directory |
 | `git commit -m "Your commit message here"` | Commit all staged changes with a message |
-| `git commit -a -m "Your commit message here"` | Automatically stage and commit all changes (without git add) |
+| `git commit -a -m "Your commit message here"` | Automatically stage and commit all changes (without `git add`) |
 | `git commit --amend -m "New message"` | Add more changes to the last commit or update its message |
 | `git commit --date="YYYY-MM-DD HH:MM:SS" -m "Your message"` | Commit with a custom date and time |
 | `git log` | See a concise log of commits |
