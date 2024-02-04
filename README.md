@@ -1,6 +1,6 @@
 # Git Commands Handbook
 
-This guide is here to help everyone, whether you're just starting out or have been coding for a while. It's a quick reference for Git commands that make your work easier and improve your skills in managing different versions of your code
+This guide provides easy-to-use Git commands that have been my go-to tools throughout my coding journey. 
 
 ## Commands
 
