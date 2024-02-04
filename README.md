@@ -6,10 +6,6 @@ A comprehensive guide to essential Git commands for every programmer's daily wor
 
 Welcome to the Git Commands Handbook! This repository serves as a reference guide for common Git commands used in the daily life of a programmer. Whether you are a beginner or an experienced developer, you'll find a collection of commands to streamline your workflow and enhance your version control skills.
 
-## Meaning of the terms used:
-
-- Staging area is like a preview of the changes you're about to save. It allows you to carefully select and review modifications before making them a permanent part of your project's history
-
 ## Commands
 
 | Command | Description |
@@ -22,3 +18,8 @@ Welcome to the Git Commands Handbook! This repository serves as a reference guid
 | `git add -A ` | Add all changes, including untracked files |
 | `git add <file-name>` | Add a single file to the staging area |
 | `git add <path\to\dir>` | Add changes only in a specific directory |
+
+
+## Meaning of the terms used:
+
+- Staging area is like a preview of the changes you're about to save. It allows you to carefully select and review modifications before making them a permanent part of your project's history
