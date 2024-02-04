@@ -10,6 +10,7 @@ Welcome to the Git Commands Handbook! This repository serves as a reference guid
 
 - Staging area is like a preview of the changes you're about to save. It allows you to carefully select and review modifications before making them a permanent part of your project's history
 
+## Commands
 
 | Command | Description |
 | ------- | ----------- |
