@@ -50,8 +50,8 @@ This project is actively maintained, and updates are still in progress.
 
 ## Last Updated
 
-This README was last updated on [Date].
+This README was last updated on 5th February, 2024.
 
 ## Project Status
 
-[![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-green.svg)](https://github.com/user/repo)
+[![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-green.svg)](https://github.com/mjhosawa/git-commands-handbook)
